@@ -13,12 +13,19 @@ muestra en la tabla. También deberemos saber si el asiento está ocupado por un
 espectador o no. Si está ocupado se muestra una X, sino un espacio vacío.
 
 8A X | 8B X | 8C X | 8D - | 8E X | 8F X
+
 7A X | 7B X | 7C X | 7D X | 7E - | 7F X
+
 6A - | 6B X | 6C - | 6D X | 6E X | 6F -
+
 5A X | 5B - | 5C X | 5D X | 5E X | 5F X
+
 4A X | 4B X | 4C X | 4D X | 4E X | 4F X
+
 3A - | 3B X | 3C X | 3D O | 3E X | 3F X
+
 2A X | 2B - | 2C X | 2D X | 2E X | 2F -
+
 1A X | 1B X | 1C X | 1D X | 1E X | 1F X
 
 Se debe realizar una pequeña simulación, en la que se generen muchos espectadores y
